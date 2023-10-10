@@ -3,9 +3,9 @@
 ![Hacktoberfest 2021]([hacktoberfest2021.PNG](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg))
 
 <p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/MohmedIkram/hacktoberfest2021"></a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/MohmedIkram/Hacktoberfest2021"></a>
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MohmedIkram/Hacktoberfest2021"></a>
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/paulofreitas-py/Hacktoberfest-24/"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks//paulofreitas-py/Hacktoberfest-24/"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/paulofreitas-py/Hacktoberfest-24/"></a>
 </p>
 
 # Upload Different Types of Programs in any Language
