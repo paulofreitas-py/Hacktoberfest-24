@@ -1,6 +1,8 @@
-# <center> Hacktober Fest 2022 </center>
+# <center> Hacktober Fest 2024 </center>
 
-![Hacktoberfest 2021]([hacktoberfest2021.PNG](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg))
+![Hacktoberfest 2024] 
+
+img scr ="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"
 
 <p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/paulofreitas-py/Hacktoberfest-24/"></a>
