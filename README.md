@@ -1,28 +1,9 @@
-
-
-Settings
-
-Hi! Here some our recommendations to get the best out of BLACKBOX:
-
-Be as clear as possible
-
-End the question in what language you want the answer to be, e.g: ‘connect to mongodb in python
-or you can just
-Go to Blackbox
-Here are some suggestion (choose one):
-Write a function that reads data from a json file
-How to delete docs from mongodb in phyton
-Connect to mongodb in nodejs
-Ask any coding question
-send
-refresh
-Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
 <br />
     <p align="center">
         <a href="https://www.devchallenge.com.br/">
             <img src="https://github.com/devchallenge-io/hiring_process_for_newbies/assets/52923100/a66a22b4-5a17-4aa0-a7ab-f1e33401806d" alt="Logo" width="700" height="350">
         </a>
-        <h1 align="center">DevChallenge Hacktoberfest 2023</h1>
+        <h1 align="center">DevChallenge Hacktoberfest 2024</h1>
    </p>
 <!-- Nesse link você pode encontrar bandeiras de diversos países https://flagpedia.net/download/api -->
 
