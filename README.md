@@ -4,7 +4,7 @@
 
 <p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/paulofreitas-py/Hacktoberfest-24/"></a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks//paulofreitas-py/Hacktoberfest-24/"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/paulofreitas-py/Hacktoberfest-24/"></a>
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/paulofreitas-py/Hacktoberfest-24/"></a>
 </p>
 
