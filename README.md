@@ -7,8 +7,7 @@
    <img alt="GitHub forks" src="https://img.shields.io/github/forks/MohmedIkram/Hacktoberfest2021"></a>
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/MohmedIkram/Hacktoberfest2021"></a>
 </p>
-# Utilize Google Collab
-https://colab.google/
+
 # Upload Different Types of Programs in any Language
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
