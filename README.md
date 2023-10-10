@@ -1,6 +1,6 @@
 # <center> Hacktober Fest 2022 </center>
 
-![Hacktoberfest 2021](hacktoberfest2021.PNG)
+![Hacktoberfest 2021]([hacktoberfest2021.PNG](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg))
 
 <p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/MohmedIkram/hacktoberfest2021"></a>
